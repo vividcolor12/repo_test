@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <p>졸려asdfasdf졸려</p>
+      <p>졸려asdfasdfasdf졸asdf려</p>
     </div>
   );
 }
